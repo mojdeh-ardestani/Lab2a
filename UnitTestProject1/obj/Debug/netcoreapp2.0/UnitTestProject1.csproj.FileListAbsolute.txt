@@ -1,0 +1,33 @@
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CopyComplete
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb

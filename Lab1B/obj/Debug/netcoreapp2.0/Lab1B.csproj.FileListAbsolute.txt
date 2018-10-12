@@ -1,0 +1,24 @@
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.deps.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.dev.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csproj.CoreCompileInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfoInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfo.cs
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csprojResolveAssemblyReference.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.deps.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.runtimeconfig.dev.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\bin\Debug\netcoreapp2.0\Lab1B.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csproj.CoreCompileInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfoInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.AssemblyInfo.cs
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1B\obj\Debug\netcoreapp2.0\Lab1B.csprojAssemblyReference.cache

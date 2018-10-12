@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAexYbsIORC0eUzuAXg/4jGQAAAAACAAAAAAAQZgAAAAEAACAAAABnphU/qVBMaMDMyMhhLN1oSQMR36VKE/t33qqJzT6yTwAAAAAOgAAAAAIAACAAAACeGKwo5MvODmoFUTo9E2m3tV+6IDtf6dCRDS9yYt9MDoAAAAD/Fe+6dDetdgGzpCgIxxTRMlQzZi5RRXglANtMkzIhVfxDCCIZVMFWGGf4w8uS3+vKtZjS0PiFfxBJOXr1zBVVSId1ZwIjzlJvhmZLM91zjVY60CvpwbWm6ZZZ7n86bkBO/2fe0I9tSp0Or2qA4DAKtGxFvn7f0jKyUO3SHixFs0AAAAB0ReBBINaxxcHPgyzL8uSkDGVmfbCLv/yE0rLbdWgIho1+sl7ulFEkrgCUUuiJteMhPUxBdvy+FjD5yem09bpb</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:lab1b-mojdehdb.database.windows.net,1433%3bInitial Catalog=Lab1B-Mojdeh_db%3bUser Id=Mojdeh%40lab1b-mojdehdb%3bPassword=4123%40Moj</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Lab1B.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:lab1b-mojdehdb.database.windows.net,1433%3bInitial Catalog=Lab1B-Mojdeh_db%3bUser Id=Mojdeh%40lab1b-mojdehdb%3bPassword=4123%40Moj</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

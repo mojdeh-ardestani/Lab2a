@@ -1,0 +1,55 @@
+D:\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+D:\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+D:\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+D:\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojResolveAssemblyReference.cache
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+D:\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+D:\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojAssemblyReference.cache
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Downloads\Lab1A\Lab1A\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojAssemblyReference.cache
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Desktop\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\000383122\Downloads\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojResolveAssemblyReference.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.deps.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.runtimeconfig.dev.json
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\bin\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csproj.CoreCompileInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfoInputs.cache
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.AssemblyInfo.cs
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.dll
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.pdb
+C:\Users\mojde\Downloads\Lab1A-1 (2)\Lab1A-1\Lab1A-1\Lab1A\obj\Debug\netcoreapp2.0\Lab1A.csprojAssemblyReference.cache
